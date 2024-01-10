@@ -4,6 +4,6 @@ This project focuses on predicting solar power output based on various environme
 ### Data visualization 
 Utilized a heatmap to visualize the Pearson correlation between different features.
 Explored the correlation between target features (Clearsky DHI, Clearsky DNI, Clearsky GHI).
-###ML model
+### ML model
 Applied a Decision Tree Regressor and a Random Forest Regressor to predict solar power output.
 Evaluated the model's performance using Mean Squared Error (MSE) and Root Mean Squared Error (RMSE).
